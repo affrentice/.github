@@ -58,9 +58,6 @@ Please read and follow our [Code of Conduct](link to code of conduct will be mad
 
 Thank you for your interest in contributing to Affrentice! We look forward to working with you.
 
-Note:
-
-Please make sure to customize the template as per your project's needs and guidelines.
 
 <!--
 
